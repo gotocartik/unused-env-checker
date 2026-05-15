@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "unused-env-checker": "./cli.js"
+    "unused-env-checker": "cli.js"
   },
   "license": "MIT",
   "keywords": [
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/karthikjayasri/unused-env-checker"
+    "url": "git+https://github.com/gotocartik/unused-env-checker.git"
   },
   "funding": "https://github.com/sponsors/karthikjayasri",
   "engines": {
