@@ -1,6 +1,6 @@
 {
   "name": "unused-env-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool that scans your codebase and compares used environment variables with the variables defined in your .env file.",
   "type": "module",
   "main": "index.js",
