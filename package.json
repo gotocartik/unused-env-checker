@@ -1,0 +1,29 @@
+{
+  "name": "unused-env-checker",
+  "version": "1.0.0",
+  "description": "A CLI tool that scans your codebase and compares used environment variables with the variables defined in your .env file.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "unused-env-checker": "./cli.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "env",
+    "environment",
+    "cli",
+    "dotenv",
+    "environment-variables",
+    "cleanup",
+    "code-quality",
+    "developer-tools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthikjayasri/unused-env-checker"
+  },
+  "funding": "https://github.com/sponsors/karthikjayasri",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
